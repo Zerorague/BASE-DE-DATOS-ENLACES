@@ -186,7 +186,7 @@ class GUI(bbdd):
     def __creador(self):
 
         messagebox.showinfo(
-            "DEV".center(40), "         Juli(OS)\njulioasmb@gmail.com")
+            "DEV".center(40), "         Juli(OS)\njulioasmb@gmail.com\n          ver 1.0")
 
     def __guardar(self):
         try:
